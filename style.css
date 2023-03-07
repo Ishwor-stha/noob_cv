@@ -1,0 +1,17 @@
+.upper_pannel,th,a{
+    background-color: white;
+    color: black;
+    padding: 0.5%;
+    text-decoration: none;
+  
+
+}
+body {
+    background-color: black;
+}
+.white{
+    color: white;
+}
+ul,li{
+    color:white
+}
